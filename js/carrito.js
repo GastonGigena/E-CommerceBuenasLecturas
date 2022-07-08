@@ -1,7 +1,7 @@
 const data= [
     {
         id : 0,
-        img : 'images/caratula cuadernillos 1.png',
+        img : 'images_ecommerce/caratula cuadernillos 1.png',
         name : 'Lengua y Literatura',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -9,7 +9,7 @@ const data= [
     },
     {
         id : 1,
-        img : 'images/caratula cuadernillos 2.png',
+        img : 'images_ecommerce/caratula cuadernillos 2.png',
         name : 'Matemáticas',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -17,7 +17,7 @@ const data= [
     },
     {
         id : 2,
-        img : 'images/caratula cuadernillos 3.png',
+        img : 'images_ecommerce/caratula cuadernillos 3.png',
         name : 'Biología',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -25,7 +25,7 @@ const data= [
     },
     {
         id : 3,
-        img : 'images/caratula cuadernillos 4.png',
+        img : 'images_ecommerce/caratula cuadernillos 4.png',
         name : 'Carpintería',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -33,7 +33,7 @@ const data= [
     },
     {
         id : 4,
-        img : 'images/caratula cuadernillos 5.png',
+        img : 'images_ecommerce/caratula cuadernillos 5.png',
         name : 'Formación para la vida y el trabajo',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -41,7 +41,7 @@ const data= [
     },
     {
         id : 5,
-        img : 'images/caratula cuadernillos 6.png',
+        img : 'images_ecommerce/caratula cuadernillos 6.png',
         name : 'Electromecánica',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -49,7 +49,7 @@ const data= [
     },
     {
         id : 6,
-        img : 'images/caratula cuadernillos 7.png',
+        img : 'images_ecommerce/caratula cuadernillos 7.png',
         name : 'Historia',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
@@ -57,7 +57,7 @@ const data= [
     },
     {
         id : 7,
-        img : 'images/caratula cuadernillos 8.png',
+        img : 'images_ecommerce/caratula cuadernillos 8.png',
         name : 'Soldadura',
         price : 100,
         delievery : 'Llega a la escuela en 2 días',
